@@ -9,6 +9,7 @@ Software: Python 3.7.6, Visual Studio Code 1.47.3
 
 ## Election Results
 - Total number of votes cast: 369,711 votes.
+
 ![Total_Votes.png](Resources/Total_Votes.png)
 ![Total_Votes_Loop.png](Resources/Total_Votes_Loop.png)
 
@@ -24,6 +25,9 @@ Software: Python 3.7.6, Visual Studio Code 1.47.3
 
 - Denver had the highest voter turnout with 82.8% of the total votes cast in this election.
 ![Largest_County.png](Resources/Largest_County.png)
+![Largest_County_If.png](Resources/Largest_County_If.png)
+
+----------------------------------
 
 ![Election_Results.png](Resources/Election_Results.png)
 
