@@ -14,16 +14,19 @@ Software: Python 3.7.6, Visual Studio Code 1.47.3
 ![Total_Votes_Loop.png](Resources/Total_Votes_Loop.png)
 
 - Charles Casper Stockham received 85,213 votes (23% of the votes), Diana DeGette recieved 272,892 votes (73.8% of the votes), and Raymon Anthony Doane received 11,606 votes (3.1% of the votes).
+
 ![Candidate_Variables.png](Resources/Candidate_Variables.png)
 ![Candidate_If.png](Resources/Candidate_If.png)
 
 - Diana DeGette won the election with 73.8% of the votes.
+
 ![Winning_Candidate.png](Resources/Winning_Candidate.png)
 
 - Three counties participated in the election: Arapahoe, Denver, and Jefferson. Jefferson had 38,855 votes (10.5%), Denver had 306,055 votes (82.8%), and Arapahoe had 24,801 votes (6.7%).
   - Here a similar process to the candidate vote tabulations were used, simply substituting variables for ones related to the counties.
 
 - Denver had the highest voter turnout with 82.8% of the total votes cast in this election.
+
 ![Largest_County.png](Resources/Largest_County.png)
 ![Largest_County_If.png](Resources/Largest_County_If.png)
 
